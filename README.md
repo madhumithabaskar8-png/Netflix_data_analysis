@@ -9,6 +9,7 @@ This project explores a Netflix dataset using Python to understand trends in mov
 * Pandas
 * Matplotlib
 * Seaborn
+* ML Models
 
 ## Dataset
 The dataset contains information about Netflix titles such as:
@@ -25,7 +26,9 @@ The dataset contains information about Netflix titles such as:
 ## Visualizations
 Some basic visualizations were created to understand the dataset, such as:
 * Distribution of Movies vs TV Shows
+##Predictions
+In order to use AI for predictions used scikit-learn model for classification,accuracy and prediction
   
 ## Learning Outcome
-Through this project, I learned the basics of data analysis and data visualization using Python.
+Through this project, I learned the basics of data analysis and data visualization and modeling using Python.
 
